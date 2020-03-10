@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id" : "unique1",
+            "name": "Muhammet Enes Çifci",
+            "salary": "6125",
+            "department": "Bilişim"
+          },
+          {
+            "id ": "unique2",
+            "name": "Eren Doğan",
+            "salary": "6115",
+            "department": "Bilişim"
+          },
+          {
+            "id": "unique3",
+            "name": "Mert Eyigel",
+            "salary": "6127",
+            "department": "Bilişim"
+          },
+          {
+            "id": "unique4",
+            "name": "Ahsen Demir",
+            "salary": "6130",
+            "department": "Biyomedikal"
+          },
+          {
+            "id": "unique5",
+            "name": "Melih Kepler",
+            "salary": "6235",
+            "department": "Elektrik"
+          }
+    ]
+}
